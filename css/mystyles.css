@@ -1,0 +1,15 @@
+body{
+    font-family: Helvetica, sans-serif;
+}
+.site-heading-lower{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.mb-3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+#mainNav{
+    background-color: rgba(178, 192, 218, 0.726);
+}
